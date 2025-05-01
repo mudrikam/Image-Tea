@@ -47,7 +47,7 @@ Gampang kan? Dalam hitungan menit, gambar-gambarmu sudah punya metadata keren si
 
 ## Screenshot
 
-![Image-Tea Screenshot](app_ss.jpeg)
+![Image-Tea Screenshot](app_ss.png)
 
 ## Grup Komunitas
 
